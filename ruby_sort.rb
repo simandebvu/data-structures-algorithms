@@ -28,7 +28,20 @@ class Array
     self
   end
 
+  def insertion_sort
+    for i in (1...length)
+      if arr[i-1] > arr[i]
+        i.downto(1) do |j|
+          if arr[j] < arr[j-1]
+            arr[j-1], arr[j] = arr[j], arr[j-1]
+          end
+        end
+      end
+    end
+    self
+  end
+
+
 
 end
-
 
