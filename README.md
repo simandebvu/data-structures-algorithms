@@ -1,8 +1,6 @@
 # SORTING Algos
 
-> Practice for the various sorting algorithms.
-
-![screenshot](./app_screenshot.png)
+> Ruby code for data structures and algorithms.
 
 Additional description about the project and its features.
 
@@ -17,7 +15,7 @@ Additional description about the project and its features.
 
 ## Authors
 
-👤 **Author1**
+👤 **Shingirayi Mandebvu**
 
 - Github: [@simandebvu](https://github.com/simandebvu)
 - Twitter: [@simandebvu](https://twitter.com/simandebvu)
@@ -41,4 +39,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](lic.url) licensed.
+This project is [MIT](LICENSE) licensed.
