@@ -2,6 +2,7 @@
 [![Issues](https://img.shields.io/github/issues-raw/tterb/PlayMusic.svg?maxAge=25000)](https://github.com/simandebvu/ruby-data-structures-algorithms/issues)  
 ![Linters](https://github.com/simandebvu/ruby-data-structures-algorithms/workflows/Linters/badge.svg)
 ![Tests](https://github.com/simandebvu/ruby-data-structures-algorithms/workflows/Tests/badge.svg)
+[![Run on Repl.it](https://repl.it/badge/github/simandebvu/ruby-data-structures-algorithms)](https://repl.it/github/simandebvu/ruby-data-structures-algorithms)
 # Ruby for Data structures And Algorithms
 
 > Ruby code for data structures and algorithms. This repository will serve as a reference for knowledge, practice and implementation.
@@ -12,7 +13,7 @@
 
 ## Live Demo
 
-[Live Demo Link](#)
+[Live Demo Link](https://repl.it/github/simandebvu/ruby-data-structures-algorithms)
 
 ## Authors
 
