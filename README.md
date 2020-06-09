@@ -1,15 +1,13 @@
-# SORTING Algos
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/simandebvu/ruby-data-structures-algorithms/blob/master/LICENSE)
+[![Issues](https://img.shields.io/github/issues-raw/tterb/PlayMusic.svg?maxAge=25000)](https://github.com/simandebvu/ruby-data-structures-algorithms/issues)  
 
-> Practice for the various sorting algorithms.
+# Ruby for Data structures And Algorithms
 
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
+> Ruby code for data structures and algorithms. This repository will serve as a reference for knowledge, practice and implementation.
 
 ## Built With
 
 - RUBY
-- PYTHON
 
 ## Live Demo
 
@@ -17,7 +15,7 @@ Additional description about the project and its features.
 
 ## Authors
 
-👤 **Author1**
+👤 **Shingirayi Mandebvu**
 
 - Github: [@simandebvu](https://github.com/simandebvu)
 - Twitter: [@simandebvu](https://twitter.com/simandebvu)
@@ -35,10 +33,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse
 
 ## 📝 License
 
-This project is [MIT](lic.url) licensed.
+This project is [MIT](LICENSE) licensed.
