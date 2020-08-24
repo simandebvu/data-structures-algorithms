@@ -1,4 +1,4 @@
-require_relative "../src/ruby_sort.rb"
+require_relative '../src/ruby_sort.rb'
 
 arr = [15, -1, 2, 3, 7, 5, -10]
 p "Original Array : #{arr}"

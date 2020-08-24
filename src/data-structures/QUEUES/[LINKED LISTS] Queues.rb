@@ -1,12 +1,11 @@
 class Node
-    attr_accessor :value, :next_node
+  attr_accessor :value, :next_node
 
-    def initialize(value, next_node = nil)
-        @value = value
-        @next_node = next_node
-    end
+  def initialize(value, next_node = nil)
+    @value = value
+    @next_node = next_node
+  end
 end
-
 
 class Queue
   def add(number)
@@ -19,9 +18,10 @@ class Queue
       @tail = new_node
     end
   end
-  
+
   def remove
     return -1 if @head.nil?
+
     val = @head.value
     @head = @head.next_node
     val
