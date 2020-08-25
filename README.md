@@ -9,6 +9,7 @@
 | :heavy_check_mark: | 003 | [Queues][p002]                 | [Ruby][p002] | [Wiki][w002] | Easy       |
 | :heavy_check_mark: | 004 | [Min Stacks][p003]             | [Ruby][p003] |              | Easy       |
 | :heavy_check_mark: | 004 | Sliding Maximum                | [Ruby]       |              | Easy       |
+| :heavy_check_mark: | 005 | Balanced Brackets              | [Ruby][p003] |              | Easy       |
 
 [p000]:https://repl.it/@simandebvu/data-structures-algorithms#src/data-structures/LINKED%20LISTS/linked_list.rb
 [p001]:https://repl.it/@simandebvu/data-structures-algorithms#src/data-structures/STACKS/[ARRAY]%20Stacks.rb
